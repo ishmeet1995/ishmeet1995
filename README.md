@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ishmeet Bindra
-- 👀 I’m interested in Coding, Puzzles and Article (Reading and writing)
-- 🌱 I’m currently learning Terraform
+- 👀 I’m interested in Coding, Puzzles, and Articles (Reading and writing)
+- 🌱 I’m currently learning Generative AI
 - 💞️ I’m looking to collaborate on Backend Development
 - 📫 How to reach me contact@ishmeet.dev
 
